@@ -26,7 +26,7 @@
 Termux'u aç ve şu komutu çalıştır:
 
 ```bash
-pkg install git -y && git clone https://github.com/adimxz/ReTeKZ && cd ReTeKZ && bash install.sh
+pkg install git -y && git clone https://github.com/adimxz/ReTeKZ. && cd ReTeKZ && bash install.sh
 ```
 
 ---
