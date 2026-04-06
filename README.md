@@ -1,6 +1,6 @@
 # ReTeKZ VPN 🔒
 
-> Termux üzerinden root/sudo gerektirmeden çalışan Cloudflare WARP tabanlı VPN kontrol aracı.
+> Termux üzerinden root/sudo gerektirmeden çalışan VPN kontrol aracı.
 
 ![Platform](https://img.shields.io/badge/Platform-Termux-black?style=flat-square)
 ![Powered](https://img.shields.io/badge/Powered%20by-Cloudflare%20WARP-orange?style=flat-square)
